@@ -1,0 +1,4 @@
+*.Rmd linguist-language=R
+*.Rda linguist-language=R
+*.RData linguist-language=R
+*.html linguist-language=HTML
